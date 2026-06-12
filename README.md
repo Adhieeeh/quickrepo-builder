@@ -5,6 +5,8 @@ QuickRepo is an interactive web app built with React that automates writing repe
 
 ## Live Preview
 
+![](qr1.png)
+![](qr2.png)
 ##  Features
 
 * ⚡ **Instant Generation:** Form updates the text output dynamically as you type.
@@ -15,4 +17,4 @@ QuickRepo is an interactive web app built with React that automates writing repe
 
 * `React`
 * `Vite`
-* `JavaScript (ES6+)`
+* `JavaScript`
